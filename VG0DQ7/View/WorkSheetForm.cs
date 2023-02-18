@@ -38,6 +38,7 @@ namespace VG0DQ7.View
                 WorkSheetTable.RowStyles[i].Height = 50;
                 
             }
+
             WorkSheetTable.Refresh();
 
             int row = 0;
